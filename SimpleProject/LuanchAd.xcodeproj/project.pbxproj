@@ -226,7 +226,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0830;
-				ORGANIZATIONNAME = lli;
+				ORGANIZATIONNAME = Flame Grace;
 				TargetAttributes = {
 					869E95571EC2E3D7008A80B2 = {
 						CreatedOnToolsVersion = 8.3.1;
