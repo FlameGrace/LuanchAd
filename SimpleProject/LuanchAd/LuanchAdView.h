@@ -2,8 +2,8 @@
 //  LuanchAdView.h
 //  LuanchAd
 //
-//  Created by 李嘉军 on 2017/5/10.
-//  Copyright © 2017年 lli. All rights reserved.
+//  Created by Flame Grace on 2017/5/10.
+//  Copyright © 2017年 Flame Grace. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
