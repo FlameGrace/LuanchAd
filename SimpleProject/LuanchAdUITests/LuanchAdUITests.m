@@ -2,8 +2,8 @@
 //  LuanchAdUITests.m
 //  LuanchAdUITests
 //
-//  Created by Flame Grace on 2017/5/10.
-//  Copyright © 2017年 Flame Grace. All rights reserved.
+//  Created by 李嘉军 on 2017/8/30.
+//  Copyright © 2017年 com.flamegrace. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
